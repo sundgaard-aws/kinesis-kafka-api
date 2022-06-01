@@ -1,2 +1,2 @@
-# kinesis-kafka-api
-A Kafka compliant API for Amazon Kinesis
+# Introduction
+The kinesis-kafka-api project aims to provide a Kafka compliant API for Amazon Kinesis for Java, .Net and Python.
